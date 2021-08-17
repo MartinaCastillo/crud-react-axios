@@ -1,7 +1,6 @@
 import './App.css';
 import React, { Component } from 'react';
 import axios from 'axios';
-import 'react-table/react-table.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faEdit, faTrashAlt} from '@fortawesome/free-solid-svg-icons';
